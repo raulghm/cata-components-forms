@@ -1,0 +1,27 @@
+{
+  "name": "cata-components-forms",
+  "version": "0.1.0",
+  "description": "CSS components-forms styles",
+  "author": {
+    "name": "Raúl Hernández",
+    "email": "raulghm@gmail.com",
+    "url": "https://github.com/raulghm"
+  },
+  "repository": "raulghm/cata-components-forms",
+  "homepage": "https://github.com/raulghm/cata-components-forms#readme",
+  "keywords": [
+    "components-forms",
+    "browser",
+    "css",
+    "suitcss",
+    "style",
+    "cata"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.css",
+    "index.js",
+    "lib"
+  ],
+  "style": "index.css"
+}
